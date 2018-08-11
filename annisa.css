@@ -4,6 +4,7 @@
     margin-top: 50px;
     width: 50%;
     padding: 5px;
+    text-align: center;
 }
 
 .btnRow {
@@ -67,4 +68,9 @@
     font-weight: bolder;
     margin: auto;
     color: white;
+}
+
+.divset {
+    margin: 80px;
+    margin-top: 160px;
 }
